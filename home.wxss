@@ -1,0 +1,89 @@
+/* pages/home/home.wxss */
+.slide-image{
+  width: 100%;
+}
+page{
+  background:#F0F0F0;
+}
+.book{
+  width: 100%;
+  height: 70rpx;
+  margin-top: 15rpx;
+  line-height: 70rpx;
+  background: white;
+}
+.n_book{
+font-size: 17px;
+font-weight: bold;
+margin-left: 25rpx;
+}
+.book_info{
+  width: 100%;
+  height: 500rpx;
+  margin-top: 15rpx;
+}
+.book_dec{
+  width: 31%;
+  height: 500rpx;
+  float: left;
+  margin-left: 5px;
+  background: white;
+  border: 1px solid wheat;
+}
+.img{
+  width: 100%;
+  height: 200rpx;
+}
+.b_name{
+  width: 100%;
+  height: 70rpx;
+  font-size: 16px;
+  line-height: 70rpx;
+  text-align: center;
+  font-weight: bold;
+  color: gray;
+}
+.b_desc{
+  width: 100%;
+  height: 50rpx;
+  font-size: 13px;
+  line-height: 50rpx;
+  text-align: center;
+  color: gray;
+}
+.pri{
+  width: 100%;
+  height: 80rpx;
+}
+.new_pri{
+  width: 60%;
+  height: 80rpx;
+  font-size: 15px;
+  float: left;
+  line-height: 80rpx;
+  color: red;
+}
+.old_pri{
+  width: 40%;
+  height: 80rpx;
+  font-size: 12px;
+  float: left;
+  line-height: 80rpx;
+  color: gainsboro;
+  text-decoration: line-through;
+}
+.b_buy{
+  width: 80%;
+  height: 80rpx;
+  margin-left: 20rpx;
+  margin-top: 6rpx;
+  text-align: center;
+  border-radius:5%; 
+  background: red;
+}
+.buy{
+  font-size: 15px;
+  text-align: center;
+  line-height: 80rpx;
+  color: white;
+}
